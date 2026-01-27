@@ -8,6 +8,8 @@
 
 ## 🛠 Tech Stack
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=U-hee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -16,13 +18,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-
-<div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=U-hee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=U-hee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=U-hee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866) 
 </div>
 
 ## 🌱 Currently
