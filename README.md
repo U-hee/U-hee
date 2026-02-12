@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Logan's%20GitHub&fontSize=42" />
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Logan'sGithub&fontSize=90)
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" />
   안녕하세요! 
 </h2>
 백엔드 개발자 권우희입니다 
-
 
 ## 🛠 Tech Stack
 
